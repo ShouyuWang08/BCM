@@ -1,0 +1,7 @@
+# raw data bundles - too large for git (per-file >100MB GitHub hard limit),
+# keep these local only. Re-download/re-extract as needed.
+data/
+
+# python build artifacts
+__pycache__/
+*.pyc
